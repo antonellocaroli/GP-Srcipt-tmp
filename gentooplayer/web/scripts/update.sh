@@ -270,6 +270,7 @@ esac
 case $rsoft in
     squeezelite-R2)
         if equery --quiet list squeezelite-R2; then
+            rc-update del squeezelite-R2 default
             emerge -C squeezelite-R2
             emerge --depclean
             echo "squeezelite-R2 has been removed"
@@ -279,6 +280,7 @@ case $rsoft in
         ;;
     squeezelite)
         if equery --quiet list squeezelite; then
+            rc-update del squeezelite default
             emerge -C squeezelite
             emerge --depclean
             echo "squeezelite has been removed"
