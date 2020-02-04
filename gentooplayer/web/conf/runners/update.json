@@ -19,8 +19,7 @@
         "HQPlayer4",
         "Networkaudiod",
         "Mpd",
-        "UpMpdCli",
-        "MYmpd"
+        "UpMpdCli"
       ],
       "description": "Select Software"
     },
@@ -39,7 +38,7 @@
         "mpd",
         "upMpdCli",
         "mpd_Sima",
-        "ympd"
+        "Mympd"
       ],
       "description": "Select Software"
     }
