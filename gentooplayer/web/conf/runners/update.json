@@ -20,7 +20,7 @@
         "Networkaudiod",
         "Mpd",
         "UpMpdCli",
-        "Ympd"
+        "MYmpd"
       ],
       "description": "Select Software"
     },
