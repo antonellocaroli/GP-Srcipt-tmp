@@ -9,6 +9,7 @@
       "param": "-a",
       "type": "list",
       "values": [
+        "",
         "All",
         "GentooPlayer_gp-update",
         "Squeezelite-R2",
